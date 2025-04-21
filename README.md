@@ -1,6 +1,7 @@
 # Gemini Function Calling + Model Context Protocol(MCP) Flight Search
 
 This program is based on Google Cloud - Community Arjun Prabhulal
+https://medium.com/google-cloud/model-context-protocol-mcp-with-google-gemini-llm-a-deep-dive-full-code-ea16e3fac9a3#:~:text=Gemini%20can%20process%20natural%20language,powered%20by%20real%2Dtime%20data.
 [@arjun-prabhulal](https://medium.com/@arjun-prabhulal)
 
 ![Example Output](Images/mcp-gemini-search-demo.gif)
